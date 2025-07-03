@@ -1,0 +1,32 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.pkl
+
+# === Django ===
+db.sqlite3
+*.db
+*.sqlite3
+*.log
+media/
+staticfiles/
+*.env
+
+# === Virtual Environments ===
+venv/
+env/
+
+# === Editor & OS ===
+.DS_Store
+*.swp
+*.swo
+*.bak
+
+# === Testing & Tools ===
+*.coverage
+.mypy_cache/
+.pytest_cache/

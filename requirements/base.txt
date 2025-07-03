@@ -1,0 +1,8 @@
+asgiref==3.8.1
+Django==5.2.4
+django-allauth==65.9.0
+django-countries==7.6.1
+pillow==11.3.0
+python-decouple==3.8
+sqlparse==0.5.3
+typing_extensions==4.14.0
