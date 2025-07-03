@@ -1,0 +1,6 @@
+# Ignore template and static files from language stats
+*.html linguist-documentation
+*.css linguist-documentation
+
+# Force Python to be recognized
+*.py linguist-language=Python
